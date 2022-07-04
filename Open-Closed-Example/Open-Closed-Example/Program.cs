@@ -14,6 +14,13 @@ namespace Open_Closed_Example
             characters.Add(new CharacterA());
             characters.Add(new CharacterB());
             Console.WriteLine("Oyunda " +characters.Count() + " Adet Karekter Bulunmaktadır");
+
+            foreach (var Character in characters)
+            {
+                Console.WriteLine("Karekter Adı : "+ Character.Name + " " + " Karekter Türü:" + Character.CharacterType);
+
+
+            }
             Console.ReadLine();
 
 
