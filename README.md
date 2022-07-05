@@ -8,7 +8,7 @@ Bu öğreneğimizde Open Closed Prensibini Ele Aldık
 
 Kullanılan Prensipler
 
-1. Single Reponsibility >  Her bir karekteri kendi nesnesinde kamsülleme işlemini gerçekledik
+1. Single Reponsibility >  Her bir karekteri kendi nesnesinde kapsülleme işlemini gerçekledik
 2. Open Closed > Eklediğimiz Karekter sayısını Daha sonra genişletmek için geliştirmeye açık ama karekter sınırlarını değiştirmeye kapalı bıraktık.
  Bu örnekde karekterimiz sadece 2 özellik alabilir 
  1. İsim
