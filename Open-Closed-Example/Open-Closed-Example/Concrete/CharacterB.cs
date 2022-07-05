@@ -1,10 +1,11 @@
-﻿using System;
+﻿using Open_Closed_Example.Absraction;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Open_Closed_Example
+namespace Open_Closed_Example.Concrete
 {
     public class CharacterB : GameCharacter
     {

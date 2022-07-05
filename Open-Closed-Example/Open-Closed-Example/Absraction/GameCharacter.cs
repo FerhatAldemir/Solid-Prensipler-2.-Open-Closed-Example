@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Open_Closed_Example
+namespace Open_Closed_Example.Absraction
 {
     public abstract class GameCharacter
     {

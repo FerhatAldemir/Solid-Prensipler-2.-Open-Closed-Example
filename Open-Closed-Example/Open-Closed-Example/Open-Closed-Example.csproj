@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CharacterB.cs" />
-    <Compile Include="CharacterA.cs" />
-    <Compile Include="GameCharacter.cs" />
+    <Compile Include="Concrete\CharacterB.cs" />
+    <Compile Include="Concrete\CharacterA.cs" />
+    <Compile Include="Absraction\GameCharacter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
